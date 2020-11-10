@@ -1,7 +1,5 @@
-### Hi there 👋
-
-- Data Manager at the Royal Netherlands Institute for Sea Research (NIOZ) on Texel
-- Data Manager for the Netherlands Polar Program, responsible for the website of the Netherlands Polar Data Center (npdc.nl)
+- Data Manager at the Royal Netherlands Institute for Sea Research (NIOZ) on Texel (https://www.nioz.nl)
+- Data Manager for the Netherlands Polar Program, responsible for the website of the Netherlands Polar Data Center (https://npdc.nl)
 <!--
 **MartenTacoma/MartenTacoma** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
